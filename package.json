@@ -1,0 +1,22 @@
+{
+  "name": "vishnucprasad_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vishnucprasad/vishnucprasad_bot",
+  "author": "Vishnu C Prasad",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "mongoose": "^7.0.0",
+    "telegraf": "^4.11.2",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
