@@ -1,5 +1,9 @@
 const commands = require('../config/commands.config');
-const { addChat, addMember } = require('../services/bot.services');
+const {
+    addChat,
+    addMember,
+    removeMember,
+} = require('../services/bot.services');
 
 const getControllers = (bot) => {
     return {
@@ -60,6 +64,13 @@ const getControllers = (bot) => {
             } else {
                 ctx.reply('Action restricted for this chat!');
             }
+        },
+        async leftChatMemberController(ctx) {
+            await removeMember(ctx.message.left_chat_member.id, (error) => {
+                if (error) {
+                    return ctx.reply(JSON.stringify(error));
+                }
+            });
         },
     };
 };

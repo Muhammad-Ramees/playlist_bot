@@ -57,3 +57,12 @@ exports.addMember = async (memberDetails, done) => {
         return done(error);
     }
 };
+
+exports.removeMember = async (userId, done) => {
+    try {
+        await Member.findOneAndDelete({ userId });
+        return done();
+    } catch (error) {
+        return done(error);
+    }
+};

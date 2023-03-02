@@ -10,7 +10,8 @@ dotenv.config();
 
 const bot = new Telegraf(process.env.BOT_TOKEN);
 
-const { startController, newChatMemberController } = getControllers(bot);
+const { startController, newChatMemberController, leftChatMemberController } =
+    getControllers(bot);
 
 // Connect database
 db.connect();
@@ -18,6 +19,8 @@ db.connect();
 bot.start(startController);
 
 bot.on('new_chat_members', newChatMemberController);
+
+bot.on('left_chat_member', leftChatMemberController);
 
 bot.launch();
 
