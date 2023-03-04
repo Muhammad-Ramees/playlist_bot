@@ -123,9 +123,20 @@ const getControllers = (bot) => {
                 state.questionType === questionTypes.PLAYLIST_ID &&
                 admin
             ) {
-                await releaseVideos(ctx.message.text);
-                return ctx.reply('Video release has been initiated', {
-                    reply_to_message_id: ctx.message.message_id,
+                await releaseVideos(ctx.message.text, (err, video) => {
+                    if (err) {
+                        return ctx.reply('something went wrong', {
+                            reply_to_message_id: ctx.message.message_id,
+                        });
+                    }
+                    return ctx
+                        .reply(`${video.title}\n\n${video.url}`)
+                        .then((message) => {
+                            bot.telegram.pinChatMessage(
+                                ctx.chat.id,
+                                message.message_id
+                            );
+                        });
                 });
             }
         },

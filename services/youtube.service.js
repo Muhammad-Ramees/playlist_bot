@@ -4,9 +4,12 @@ const { google } = require('googleapis');
 
 const generateVideoLinks = (items, playlistId) => {
     return items.map((item) => {
-        return `https://www.youtube.com/watch?v=${
-            item.contentDetails.videoId
-        }&list=${playlistId}&index=${item.snippet.position + 1}`;
+        return {
+            url: `https://www.youtube.com/watch?v=${
+                item.contentDetails.videoId
+            }&list=${playlistId}&index=${item.snippet.position + 1}`,
+            title: item.snippet.title,
+        };
     });
 };
 

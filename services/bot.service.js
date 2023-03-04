@@ -3,6 +3,7 @@
 const Chat = require('../models/chat.model');
 const Member = require('../models/member.model');
 const { getPlaylistVideos } = require('./youtube.service');
+const createJob = require('./cron.service');
 
 exports.addChat = async (chatDetails, done) => {
     const { id, title, type } = chatDetails;
@@ -68,10 +69,33 @@ exports.removeMember = async (userId, done) => {
     }
 };
 
-exports.releaseVideos = async (playlistId) => {
+exports.releaseVideos = async (playlistId, done) => {
+    const state = {
+        videoIndex: 0,
+        job: null,
+    };
     try {
         const playlistItems = await getPlaylistVideos(playlistId);
+
+        createJob(
+            () => {
+                if (state.job && state.index > playlistItems.length) {
+                    return job.stop();
+                }
+
+                const videoLink = playlistItems.videos[state.videoIndex];
+                state.videoIndex += 1;
+                return done(null, videoLink);
+            },
+            (err, job) => {
+                if (err) {
+                    return err;
+                }
+
+                state.job = job;
+            }
+        );
     } catch (err) {
-        return err;
+        return done(err);
     }
 };

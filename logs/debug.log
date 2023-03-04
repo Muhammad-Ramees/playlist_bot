@@ -310,3 +310,109 @@
 {"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 12:32:29"}
 {"level":"info","message":"SIGINT recived","timestamp":"2023-03-04 12:35:08"}
 {"level":"info","message":"mongoose disconnected","timestamp":"2023-03-04 12:35:08"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 12:37:35"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 14:17:12"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 14:19:18"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 14:35:30"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 14:35:55"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 14:57:04"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 14:57:19"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 15:03:10"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 15:04:19"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 15:06:13"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 15:06:14"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 15:06:26"}
+{"level":"info","message":"mongoose disconnected","timestamp":"2023-03-04 15:41:33"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 15:41:43"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 15:55:43"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:04:17"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:06:27"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:07:20"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:09:10"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:09:31"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:09:54"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:10:50"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:11:25"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:14:25"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:15:18"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:17:07"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:17:39"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:18:32"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:19:30"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:19:31"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:24:39"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:25:00"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:25:39"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:26:42"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:28:12"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:28:26"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:29:16"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:33:27"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:33:39"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:35:36"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:37:07"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:39:00"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:44:09"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:44:17"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:45:52"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:46:52"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:47:17"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:48:02"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:48:11"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:49:37"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 16:49:47"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:19:28"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:21:09"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:21:40"}
+{"level":"info","message":"SIGINT recived","timestamp":"2023-03-04 17:21:44"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:21:49"}
+{"level":"info","message":"SIGINT recived","timestamp":"2023-03-04 17:22:02"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:22:12"}
+{"level":"info","message":"SIGINT recived","timestamp":"2023-03-04 17:24:33"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:26:45"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:28:06"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:30:10"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:30:11"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:30:12"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:30:13"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:30:14"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:30:15"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:30:18"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:30:28"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:31:11"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:31:33"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:34:36"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:34:48"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:34:53"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:36:49"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:36:53"}
+{"level":"info","message":"SIGINT recived","timestamp":"2023-03-04 17:37:17"}
+{"level":"info","message":"mongoose disconnected","timestamp":"2023-03-04 17:37:17"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:37:22"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:38:19"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:38:20"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:39:01"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:39:34"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:39:35"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:40:12"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:41:05"}
+{"level":"info","message":"SIGINT recived","timestamp":"2023-03-04 17:43:11"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:43:35"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:44:39"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:44:40"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:44:41"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:45:33"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:46:16"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:47:10"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:49:00"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:49:04"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:49:06"}
+{"level":"info","message":"SIGINT recived","timestamp":"2023-03-04 17:49:44"}
+{"level":"info","message":"mongoose disconnected","timestamp":"2023-03-04 17:49:44"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:49:49"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:50:37"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:50:52"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:55:42"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:57:50"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-04 17:58:32"}
+{"level":"info","message":"SIGINT recived","timestamp":"2023-03-04 18:05:25"}
