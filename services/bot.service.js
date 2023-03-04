@@ -2,6 +2,7 @@
 
 const Chat = require('../models/chat.model');
 const Member = require('../models/member.model');
+const { getPlaylistVideos } = require('./youtube.service');
 
 exports.addChat = async (chatDetails, done) => {
     const { id, title, type } = chatDetails;
@@ -64,5 +65,13 @@ exports.removeMember = async (userId, done) => {
         return done();
     } catch (error) {
         return done(error);
+    }
+};
+
+exports.releaseVideos = async (playlistId) => {
+    try {
+        const playlistItems = await getPlaylistVideos(playlistId);
+    } catch (err) {
+        return err;
     }
 };
