@@ -83,9 +83,9 @@ exports.releaseVideos = async (playlistId, done) => {
                     return job.stop();
                 }
 
-                const videoLink = playlistItems.videos[state.videoIndex];
+                const video = playlistItems.videos[state.videoIndex];
                 state.videoIndex += 1;
-                return done(null, videoLink);
+                return done(null, video);
             },
             (err, job) => {
                 if (err) {
