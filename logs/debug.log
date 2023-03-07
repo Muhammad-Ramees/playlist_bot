@@ -430,3 +430,23 @@
 {"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017","timestamp":"2023-03-06 09:21:17"}
 {"level":"info","message":"SIGINT recived","timestamp":"2023-03-06 09:22:57"}
 {"level":"info","message":"mongoose disconnected","timestamp":"2023-03-06 09:22:57"}
+{"level":"error","message":"mongoose connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2023-03-06 15:18:15"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017","timestamp":"2023-03-07 12:47:02"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017","timestamp":"2023-03-07 12:51:13"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017","timestamp":"2023-03-07 12:55:26"}
+{"level":"info","message":"SIGINT recived","timestamp":"2023-03-07 12:55:59"}
+{"level":"info","message":"mongoose disconnected","timestamp":"2023-03-07 12:55:59"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017","timestamp":"2023-03-07 12:56:09"}
+{"level":"info","message":"mongoose disconnected","timestamp":"2023-03-07 13:01:10"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017","timestamp":"2023-03-07 13:01:20"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017","timestamp":"2023-03-07 14:05:03"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017","timestamp":"2023-03-07 14:07:41"}
+{"level":"info","message":"SIGINT recived","timestamp":"2023-03-07 14:08:17"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017","timestamp":"2023-03-07 14:21:43"}
+{"level":"info","message":"SIGINT recived","timestamp":"2023-03-07 14:22:28"}
+{"level":"info","message":"mongoose disconnected","timestamp":"2023-03-07 14:22:28"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017","timestamp":"2023-03-07 14:30:55"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017","timestamp":"2023-03-07 14:40:03"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017","timestamp":"2023-03-07 14:40:26"}
+{"level":"info","message":"SIGINT recived","timestamp":"2023-03-07 14:46:59"}
+{"level":"info","message":"mongoose connected to mongodb://127.0.0.1:27017/tg_bot","timestamp":"2023-03-07 14:47:09"}

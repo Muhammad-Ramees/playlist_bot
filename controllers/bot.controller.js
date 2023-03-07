@@ -123,6 +123,10 @@ const getControllers = (bot) => {
                 state.questionType === questionTypes.PLAYLIST_ID &&
                 admin
             ) {
+                state.question = null;
+                state.questionType = null;
+                state.isQuestionAsked = false;
+                state.askedTo = null;
                 await releaseVideos(ctx.message.text, (err, video) => {
                     if (err) {
                         return ctx.reply('something went wrong', {

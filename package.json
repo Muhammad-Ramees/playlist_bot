@@ -1,9 +1,9 @@
 {
-  "name": "vishnucprasad_bot",
+  "name": "playlist_bot",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/vishnucprasad/vishnucprasad_bot",
-  "author": "Vishnu C Prasad",
+  "repository": "https://github.com/Muhammad-Ramees/playlist_bot",
+  "author": "Muhammad Ramees",
   "license": "MIT",
   "private": true,
   "scripts": {
