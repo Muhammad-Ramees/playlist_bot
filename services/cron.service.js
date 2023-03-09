@@ -4,7 +4,7 @@ const CronJob = require('cron').CronJob;
 
 const createJob = (exec, done) => {
     try {
-        const job = new CronJob('0 30 11 * * *', exec);
+        const job = new CronJob('0 40 11 * * *', exec);
         job.start();
 
         return done(null, job);
